@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets / local env
+.env
+*.key
+
+# Caches
+.cache/
+cache_dir_joblib/
+
+# Generated outputs and run artifacts
+outputs/
+runs/
+!online_preference_alignment/outputs/
+online_preference_alignment/outputs/*
+!online_preference_alignment/outputs/sft-coval-qwen3-4b/
+online_preference_alignment/outputs/sft-coval-qwen3-4b/*
+!online_preference_alignment/outputs/sft-coval-qwen3-4b/splits/
+!online_preference_alignment/outputs/sft-coval-qwen3-4b/splits/**

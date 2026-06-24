@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use PrivacyAlign, please cite the following."
+title: "PrivacyAlign: Contextual Privacy Alignment for LLM Agents"
+authors:
+  - family-names: "Singh Tamber"
+    given-names: "Manveer"
+  - family-names: "Puri"
+    given-names: "Abhay"
+  - family-names: "Brunet"
+    given-names: "Marc-Etienne"
+  - family-names: "Taslakian"
+    given-names: "Perouz"
+  - family-names: "Lin"
+    given-names: "Jimmy"
+  - family-names: "Gella"
+    given-names: "Spandana"
+year: 2026
+license: Apache-2.0
+repository-code: "https://github.com/ServiceNow/PrivacyAlign"
+url: "https://servicenow.github.io/PrivacyAlign/"
+preferred-citation:
+  type: article
+  title: "PrivacyAlign: Contextual Privacy Alignment for LLM Agents"
+  authors:
+    - family-names: "Singh Tamber"
+      given-names: "Manveer"
+    - family-names: "Puri"
+      given-names: "Abhay"
+    - family-names: "Brunet"
+      given-names: "Marc-Etienne"
+    - family-names: "Taslakian"
+      given-names: "Perouz"
+    - family-names: "Lin"
+      given-names: "Jimmy"
+    - family-names: "Gella"
+      given-names: "Spandana"
+  year: 2026
+  # TODO: fill in arXiv identifier / venue once available.

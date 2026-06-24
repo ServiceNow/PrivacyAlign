@@ -1,0 +1,395 @@
+{
+  "first_names": {
+    "south_asian": {
+      "male": [
+        "Arjun", "Vikram", "Sanjay", "Rohan", "Karan", "Nikhil", "Aditya",
+        "Rahul", "Varun", "Deepak", "Harish", "Naveen", "Pranav", "Suresh",
+        "Gaurav", "Amit", "Akash", "Manish", "Vivek", "Rishi"
+      ],
+      "female": [
+        "Priya", "Ananya", "Kavitha", "Meera", "Neha", "Shreya", "Divya",
+        "Pooja", "Lakshmi", "Sunitha", "Aditi", "Pallavi", "Revathi",
+        "Nandini", "Shalini", "Anjali", "Swathi", "Deepika", "Roshni",
+        "Tanvi"
+      ]
+    },
+    "hispanic": {
+      "male": [
+        "Diego", "Mateo", "Alejandro", "Santiago", "Rafael", "Fernando",
+        "Andres", "Gabriel", "Sebastian", "Rodrigo", "Pablo", "Hector",
+        "Jaime", "Oscar", "Jorge", "Manuel", "Victor", "Eduardo", "Alvaro",
+        "Francisco"
+      ],
+      "female": [
+        "Isabella", "Valentina", "Camila", "Lucia", "Gabriela", "Natalia",
+        "Adriana", "Veronica", "Patricia", "Fernanda", "Daniela", "Rosa",
+        "Marisol", "Claudia", "Beatriz", "Lorena", "Silvia", "Carmen",
+        "Andrea", "Teresa"
+      ]
+    },
+    "east_asian": {
+      "male": [
+        "Wei", "Jun", "Hao", "Ming", "Tao", "Feng", "Kai", "Jian", "Zhi",
+        "Lei", "Bo", "Cheng", "Liang", "Yong", "Peng", "Qiang", "Xiang",
+        "Rui", "Guang", "Shan"
+      ],
+      "female": [
+        "Mei", "Ling", "Xiu", "Yue", "Jing", "Lan", "Fang", "Yan", "Hui",
+        "Na", "Xia", "Qian", "Ping", "Shu", "Hong", "Wen", "Zhen",
+        "Ying", "Dan", "Rong"
+      ]
+    },
+    "japanese": {
+      "male": [
+        "Hiroshi", "Takeshi", "Kenji", "Yuki", "Ryo", "Akira", "Masato",
+        "Daisuke", "Tetsuya", "Naoto", "Shota", "Kazuki", "Haruto", "Ren",
+        "Sora", "Takumi", "Koji", "Toshiro", "Satoshi", "Hayato"
+      ],
+      "female": [
+        "Haruka", "Sakura", "Yumi", "Aiko", "Rina", "Natsuki", "Kaori",
+        "Tomoko", "Akiko", "Chihiro", "Mana", "Hina", "Misaki", "Ayumi",
+        "Emi", "Nanami", "Sayuri", "Yui", "Kanae", "Mio"
+      ]
+    },
+    "korean": {
+      "male": [
+        "Minho", "Jungwoo", "Seojun", "Hyunwoo", "Taemin", "Sungjin",
+        "Dongwon", "Jinwoo", "Sangho", "Chanwoo", "Jaehyun", "Yunho",
+        "Siwon", "Woojin", "Dohyun", "Kyungsoo", "Taehyung", "Junhyuk",
+        "Minseok", "Seungwoo"
+      ],
+      "female": [
+        "Jiyeon", "Subin", "Yuna", "Minji", "Hayoon", "Soyeon", "Dahye",
+        "Eunji", "Chaeyoung", "Nayeon", "Jihye", "Seulgi", "Haeun",
+        "Yerin", "Sooyoung", "Jiwoo", "Minyoung", "Boyoung", "Sunhee",
+        "Yoojin"
+      ]
+    },
+    "irish": {
+      "male": [
+        "Sean", "Declan", "Ciaran", "Niall", "Eoin", "Padraig", "Brendan",
+        "Cormac", "Ronan", "Finbar", "Cathal", "Dermot", "Donal", "Tiernan",
+        "Colm", "Fergal", "Oisin", "Darragh", "Conor", "Tadhg"
+      ],
+      "female": [
+        "Siobhan", "Aoife", "Niamh", "Maeve", "Sinead", "Ciara", "Fiona",
+        "Grainne", "Brigid", "Roisin", "Aisling", "Clodagh", "Orla",
+        "Saoirse", "Deirdre", "Caoimhe", "Nessa", "Muireann", "Sorcha",
+        "Eithne"
+      ]
+    },
+    "anglo": {
+      "male": [
+        "James", "William", "Robert", "Edward", "Henry", "Charles",
+        "George", "Philip", "Arthur", "Daniel", "Andrew", "Richard",
+        "Patrick", "Kenneth", "Malcolm", "Douglas", "Graham", "Stuart",
+        "Colin", "Derek"
+      ],
+      "female": [
+        "Elizabeth", "Margaret", "Catherine", "Victoria", "Caroline",
+        "Rebecca", "Charlotte", "Laura", "Sarah", "Helen", "Alice",
+        "Rachel", "Diane", "Judith", "Pamela", "Barbara", "Dorothy",
+        "Frances", "Elaine", "Wendy"
+      ]
+    },
+    "middle_eastern": {
+      "male": [
+        "Ahmed", "Omar", "Hassan", "Ali", "Yusuf", "Ibrahim", "Tariq",
+        "Faisal", "Khalid", "Nabil", "Samir", "Karim", "Zaid", "Rashid",
+        "Hamza", "Bilal", "Mustafa", "Idris", "Jamal", "Walid"
+      ],
+      "female": [
+        "Fatima", "Leila", "Amira", "Yasmin", "Noor", "Hana", "Rania",
+        "Salma", "Dina", "Maryam", "Layla", "Zahra", "Samira", "Nadia",
+        "Soraya", "Habiba", "Reem", "Dalal", "Amal", "Farah"
+      ]
+    },
+    "african": {
+      "male": [
+        "Kwame", "Kofi", "Chidi", "Emeka", "Tunde", "Olumide", "Adebayo",
+        "Sekou", "Mamadou", "Ousmane", "Jelani", "Tendai", "Sipho",
+        "Thabo", "Jabari", "Obinna", "Eze", "Amadi", "Nnamdi", "Kojo"
+      ],
+      "female": [
+        "Amara", "Chioma", "Ngozi", "Adaeze", "Yetunde", "Folake",
+        "Aminata", "Fatou", "Nneka", "Zuri", "Thandiwe", "Naledi",
+        "Achieng", "Wanjiku", "Abena", "Efua", "Ama", "Sade", "Titilayo",
+        "Ifunanya"
+      ]
+    },
+    "southeast_asian": {
+      "male": [
+        "Thanh", "Minh", "Duc", "Anh", "Phong", "Arjun", "Budi", "Rizal",
+        "Somchai", "Kittisak", "Nhat", "Duy", "Sokha", "Chanthavong",
+        "Ramon", "Alonzo", "Bayani", "Isagani", "Vien", "Tuan"
+      ],
+      "female": [
+        "Linh", "Mai", "Thuy", "Hanh", "Ngoc", "Siti", "Dewi", "Putri",
+        "Malaya", "Leilani", "Anong", "Kulap", "Dara", "Sreymom",
+        "Maricel", "Rosalinda", "Amihan", "Hoa", "Trinh", "Phuong"
+      ]
+    }
+  },
+  "last_names": {
+    "south_asian": [
+      "Sharma", "Gupta", "Reddy", "Nair", "Desai", "Mehta", "Joshi", "Rao",
+      "Kapoor", "Malhotra", "Bose", "Iyer", "Chatterjee", "Menon", "Pillai",
+      "Rajan", "Srinivasan", "Banerjee", "Agarwal", "Kulkarni"
+    ],
+    "hispanic": [
+      "Fernandez", "Castillo", "Vargas", "Diaz", "Herrera", "Guerrero",
+      "Reyes", "Soto", "Moreno", "Romero", "Salazar", "Fuentes", "Delgado",
+      "Aguilar", "Navarro", "Jimenez", "Sandoval", "Campos", "Vega", "Lara"
+    ],
+    "east_asian": [
+      "Wang", "Zhang", "Zhao", "Huang", "Yang", "Zhou", "Xu", "Sun", "Ma",
+      "Lin", "Guo", "He", "Gao", "Luo", "Song", "Tang", "Deng", "Xie",
+      "Han", "Cao"
+    ],
+    "japanese": [
+      "Yamamoto", "Nakamura", "Kobayashi", "Ito", "Kato", "Yoshida", "Saito",
+      "Matsumoto", "Inoue", "Kimura", "Hayashi", "Shimizu", "Ogawa", "Mori",
+      "Fujita", "Okada", "Goto", "Hasegawa", "Murakami", "Ishikawa"
+    ],
+    "korean": [
+      "Kang", "Cho", "Yoon", "Jang", "Oh", "Seo", "Shin", "Kwon", "Han",
+      "Lim", "Yoo", "Ahn", "Song", "Noh", "Bae", "Moon", "Hwang", "Byun",
+      "Ko", "Ryu"
+    ],
+    "irish": [
+      "Murphy", "Kelly", "Sullivan", "Walsh", "Brennan", "Doyle", "Gallagher",
+      "Doherty", "Quinn", "Byrne", "Ryan", "Fitzgerald", "McCarthy",
+      "Maguire", "Nolan", "Duffy", "Kavanagh", "Hogan", "Farrell", "Power"
+    ],
+    "anglo": [
+      "Thompson", "Campbell", "Mitchell", "Anderson", "Robinson", "Harrison",
+      "Jenkins", "Cooper", "Bennett", "Howard", "Marshall", "Griffin",
+      "Spencer", "Fletcher", "Dixon", "Ward", "Palmer", "Austin", "Chambers",
+      "Crawford"
+    ],
+    "middle_eastern": [
+      "Khalil", "Ibrahim", "Said", "Abboud", "Mansour", "Hakim", "Bazzi",
+      "Nasser", "Farid", "Moussa", "Jawad", "Saleh", "Daher", "Khoury",
+      "Sabbagh", "Najjar", "Nassar", "Bishara", "Amin", "Darwish"
+    ],
+    "african": [
+      "Okafor", "Nwosu", "Adeyemi", "Ogunleye", "Mensah", "Asante", "Diallo",
+      "Traore", "Nkomo", "Moyo", "Ndlovu", "Mwangi", "Ochieng", "Kamau",
+      "Dlamini", "Osei", "Boateng", "Afolabi", "Balogun", "Toure"
+    ],
+    "southeast_asian": [
+      "Nguyen", "Tran", "Pham", "Hoang", "Bui", "Santos", "Reyes", "Cruz",
+      "Sukarno", "Prabowo", "Chaiyasit", "Rattanapong", "Sok", "Chea",
+      "Lao", "Vang", "Xiong", "Thao", "Doan", "Truong"
+    ]
+  },
+  "extra_last_name_ethnicities": {
+    "patel": "south_asian",
+    "singh": "south_asian",
+    "kumar": "south_asian",
+    "verma": "south_asian",
+    "khan": "south_asian",
+    "rahman": "south_asian",
+    "alvarez": "hispanic",
+    "ortiz": "hispanic",
+    "ramirez": "hispanic",
+    "torres": "hispanic",
+    "martinez": "hispanic",
+    "mendoza": "hispanic",
+    "rivera": "hispanic",
+    "morales": "hispanic",
+    "ruiz": "hispanic",
+    "gonzalez": "hispanic",
+    "sanchez": "hispanic",
+    "lopez": "hispanic",
+    "garcia": "hispanic",
+    "liu": "east_asian",
+    "chen": "east_asian",
+    "wu": "east_asian",
+    "li": "east_asian",
+    "lee": "east_asian",
+    "tanaka": "japanese",
+    "sato": "japanese",
+    "suzuki": "japanese",
+    "takahashi": "japanese",
+    "watanabe": "japanese",
+    "kim": "korean",
+    "park": "korean",
+    "choi": "korean",
+    "jung": "korean",
+    "o'connor": "irish",
+    "o'donnell": "irish",
+    "o'brien": "irish",
+    "smith": "anglo",
+    "johnson": "anglo",
+    "williams": "anglo",
+    "brown": "anglo",
+    "jones": "anglo",
+    "doe": "anglo",
+    "hart": "anglo",
+    "reynolds": "anglo",
+    "grant": "anglo",
+    "whitfield": "anglo",
+    "okafor": "african",
+    "nwosu": "african",
+    "adeyemi": "african",
+    "mensah": "african",
+    "diallo": "african",
+    "traore": "african",
+    "mwangi": "african",
+    "nguyen": "southeast_asian",
+    "tran": "southeast_asian",
+    "pham": "southeast_asian",
+    "hoang": "southeast_asian",
+    "santos": "southeast_asian",
+    "cruz": "southeast_asian"
+  },
+  "extra_first_name_genders": {
+    "liam": "male",
+    "carlos": "male",
+    "miguel": "male",
+    "ethan": "male",
+    "samuel": "male",
+    "luca": "male",
+    "rohit": "male",
+    "ravi": "male",
+    "raj": "male",
+    "jonathan": "male",
+    "johnathan": "male",
+    "marcus": "male",
+    "oliver": "male",
+    "john": "male",
+    "jordan": "male",
+    "luis": "male",
+    "thomas": "male",
+    "david": "male",
+    "kwame": "male",
+    "kofi": "male",
+    "chidi": "male",
+    "emeka": "male",
+    "tunde": "male",
+    "thanh": "male",
+    "minh": "male",
+    "duc": "male",
+    "budi": "male",
+    "somchai": "male",
+    "michael": "male",
+    "mark": "male",
+    "marco": "male",
+    "markus": "male",
+    "leonardo": "male",
+    "leonard": "male",
+    "rajesh": "male",
+    "rajiv": "male",
+    "amir": "male",
+    "alan": "male",
+    "martin": "male",
+    "mohammed": "male",
+    "aarav": "male",
+    "lars": "male",
+    "alessandro": "male",
+    "evan": "male",
+    "jacob": "male",
+    "mike": "male",
+    "elliot": "male",
+    "lucas": "male",
+    "javier": "male",
+    "kevin": "male",
+    "harold": "male",
+    "lorenzo": "male",
+    "nathaniel": "male",
+    "viktor": "male",
+    "aiden": "male",
+    "aaron": "male",
+    "alex": "male",
+    "lena": "female",
+    "aisha": "female",
+    "maya": "female",
+    "elena": "female",
+    "emily": "female",
+    "sofia": "female",
+    "maria": "female",
+    "olivia": "female",
+    "donna": "female",
+    "donnabelle": "female",
+    "emma": "female",
+    "carla": "female",
+    "alisha": "female",
+    "ayaka": "female",
+    "jane": "female",
+    "amara": "female",
+    "chioma": "female",
+    "ngozi": "female",
+    "linh": "female",
+    "mai": "female",
+    "thuy": "female",
+    "siti": "female",
+    "dewi": "female",
+    "evelyn": "female",
+    "lydia": "female",
+    "lila": "female",
+    "megan": "female",
+    "natalie": "female",
+    "mira": "female",
+    "linda": "female",
+    "samantha": "female",
+    "miriam": "female",
+    "ayesha": "female",
+    "anita": "female",
+    "eleanor": "female",
+    "leah": "female",
+    "hannah": "female",
+    "anika": "female",
+    "ana": "female",
+    "marta": "female",
+    "lina": "female",
+    "mina": "female",
+    "nina": "female",
+    "sara": "female",
+    "jenna": "female",
+    "sophie": "female",
+    "mariana": "female",
+    "lara": "female",
+    "alicia": "female",
+    "maría": "female",
+    "miyuki": "female",
+    "mara": "female",
+    "keiko": "female",
+    "marissa": "female",
+    "grace": "female",
+    "mona": "female",
+    "angela": "female",
+    "lisa": "female",
+    "amelia": "female",
+    "alessia": "female",
+    "sandra": "female",
+    "rashida": "female",
+    "ava": "female",
+    "lillian": "female",
+    "claire": "female",
+    "nisha": "female",
+    "isabel": "female",
+    "sonia": "female",
+    "riya": "female",
+    "eleni": "female",
+    "amina": "female",
+    "naomi": "female",
+    "karen": "female",
+    "miyu": "female"
+  },
+  "forced_last_names": [
+    "Patel",
+    "Chen",
+    "Rossi"
+  ],
+  "placeholder_names": [
+    "John Doe",
+    "Jane Doe",
+    "Jane Roe",
+    "Richard Roe",
+    "John Smith",
+    "Jane Smith",
+    "Test User",
+    "Example User"
+  ]
+}

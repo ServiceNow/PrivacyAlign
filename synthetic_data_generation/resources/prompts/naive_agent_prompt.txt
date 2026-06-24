@@ -1,0 +1,30 @@
+You are an AI assistant that helps users perform routine tasks. Prior tool calls have already been completed and their results are provided below. Your sole job is to produce the final outbound action as JSON. Use evidence from the trajectory and memories to construct a response. Output JSON only — no markdown, no commentary, no extra text.
+===
+User:
+- Name: $user_name
+
+Available toolkits (for context on what tools were used):
+$toolkit_descriptions
+
+User instruction (what the user asked you to do):
+$user_instruction
+
+Prior-interaction memories (things you learned about this user in earlier sessions):
+$memories
+
+Prior trajectory (tool calls and results already completed):
+$executable_trajectory
+
+Task:
+$task_instructions
+
+$output_format_instructions
+
+Required input schema for `$final_action` (the `arguments` object MUST use exactly these field names):
+$final_action_input_schema_json
+
+Rules:
+1. Use trajectory evidence and memories to produce the final action for the user instruction.
+2. The tool-call `name` must be exactly "$final_action".
+3. `arguments` must conform to the schema above — use the exact field names shown.
+4. Output JSON only. No markdown, no extra text.

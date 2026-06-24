@@ -1,0 +1,12 @@
+compute_environment: LOCAL_MACHINE
+distributed_type: DEEPSPEED
+deepspeed_config:
+  deepspeed_config_file: configs/deepspeed/zero3_sft.json
+  zero3_init_flag: true
+num_processes: 8
+machine_rank: 0
+num_machines: 1
+use_cpu: false
+rdzv_backend: static
+same_network: true
+debug: false
