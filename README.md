@@ -69,6 +69,10 @@ python privacy_evaluation/judge_responses.py --help
 
 We also provide the full RL alignment stack used to train policies against the annotation-conditioned reward, in [`online_preference_alignment/`](online_preference_alignment/README.md).
 
+## Third-party dependencies
+
+The third-party Python packages used by PrivacyAlign are listed in [`requirements.txt`](requirements.txt). These packages are installed separately and remain subject to their respective licenses and terms.
+
 ## Citation
 
 ```bibtex
