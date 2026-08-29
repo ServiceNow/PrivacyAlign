@@ -69,6 +69,16 @@ python privacy_evaluation/judge_responses.py --help
 
 We also provide the full RL alignment stack used to train policies against the annotation-conditioned reward, in [`online_preference_alignment/`](online_preference_alignment/README.md).
 
+## Third-party dependencies
+
+PrivacyAlign uses the following third-party Python packages:
+
+- **Data and utilities:** `numpy`, `scipy`, `tqdm`, `packaging`, and `python-dotenv`
+- **Model and dataset access:** `datasets`, `huggingface-hub`, `transformers`, `openai`, and `openai-harmony`
+- **Training and serving:** `torch`, `vllm`, `ray`, `deepspeed`, and `wandb`
+
+The canonical dependency list is maintained in [`requirements.txt`](requirements.txt). These packages are installed separately and remain subject to their respective licenses and terms.
+
 ## Citation
 
 ```bibtex
